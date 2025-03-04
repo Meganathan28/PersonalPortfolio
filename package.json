@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Siranjeevi619.github.io/PersonalPortfolio",
+  "homepage": "https://Meganathan28.github.io/PersonalPortfolio",
   "name": "portfolio-react-bootstrap-scroll",
   "version": "0.1.0",
   "private": true,
@@ -47,6 +47,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.3.0"
   }
 }
