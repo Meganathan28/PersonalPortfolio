@@ -1,0 +1,8 @@
+.text-justify {
+  text-align: justify;
+}
+
+.text-special {
+  color: #00c9ff;
+  font-weight: bolder;
+}
