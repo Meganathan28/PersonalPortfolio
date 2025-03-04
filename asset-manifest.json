@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/PersonalPortfolio/static/css/main.afcd9d85.css",
+    "main.js": "/PersonalPortfolio/static/js/main.d9af0d36.js",
+    "static/js/453.c581dcb3.chunk.js": "/PersonalPortfolio/static/js/453.c581dcb3.chunk.js",
+    "static/media/StarCafe.png": "/PersonalPortfolio/static/media/StarCafe.91ea1c1e9c8128b10ef1.png",
+    "static/media/ExitSurvey.png": "/PersonalPortfolio/static/media/ExitSurvey.b943bd1587336eb3fb2b.png",
+    "static/media/Resume.jpg": "/PersonalPortfolio/static/media/Resume.967c40fbda89745d4973.jpg",
+    "static/media/LearnHub.png": "/PersonalPortfolio/static/media/LearnHub.ed2dfb361126ce752b12.png",
+    "static/media/TodoApp.png": "/PersonalPortfolio/static/media/TodoApp.b0bf8299c3fa9523cc73.png",
+    "static/media/Cloudatom.jpg": "/PersonalPortfolio/static/media/Cloudatom.f2a8f56cd81ebebdb9d3.jpg",
+    "static/media/developer.jpg": "/PersonalPortfolio/static/media/developer.270df81c4e2ad51c2318.jpg",
+    "static/media/TicTacToe.png": "/PersonalPortfolio/static/media/TicTacToe.e7008a634b701361443b.png",
+    "static/media/linux.png": "/PersonalPortfolio/static/media/linux.b6954a82bda92d0a1eef.png",
+    "static/media/icons8-mongodb-480.png": "/PersonalPortfolio/static/media/icons8-mongodb-480.4d1763a20af23f3dbc1d.png",
+    "static/media/icons8-java-480.png": "/PersonalPortfolio/static/media/icons8-java-480.e238a2c40e6eaec570bc.png",
+    "static/media/icons8-c-240.png": "/PersonalPortfolio/static/media/icons8-c-240.03589f45a07032f0be45.png",
+    "static/media/icons8-html-logo-480.png": "/PersonalPortfolio/static/media/icons8-html-logo-480.be50d4568ab0cb01edb8.png",
+    "static/media/icons8-python-480.png": "/PersonalPortfolio/static/media/icons8-python-480.9c47735ea0c4a2d20349.png",
+    "static/media/icons8-bootstrap-480.png": "/PersonalPortfolio/static/media/icons8-bootstrap-480.5f221ec70518e4c64eaa.png",
+    "static/media/undraw_join_re_w1lh.svg": "/PersonalPortfolio/static/media/undraw_join_re_w1lh.6254c972f0ba516dc0fe6189c5fcb4ea.svg",
+    "static/media/leetcode.svg": "/PersonalPortfolio/static/media/leetcode.d97025c385b25098592cfcb8e14c3ef1.svg",
+    "index.html": "/PersonalPortfolio/index.html",
+    "main.afcd9d85.css.map": "/PersonalPortfolio/static/css/main.afcd9d85.css.map",
+    "main.d9af0d36.js.map": "/PersonalPortfolio/static/js/main.d9af0d36.js.map",
+    "453.c581dcb3.chunk.js.map": "/PersonalPortfolio/static/js/453.c581dcb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afcd9d85.css",
+    "static/js/main.d9af0d36.js"
+  ]
+}
